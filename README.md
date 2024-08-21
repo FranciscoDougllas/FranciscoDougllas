@@ -7,18 +7,24 @@ Formado em **Gestão Financeira**, cursando **Engenharia de Software** Pela facu
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, Desenvolvimento Front-End...
 
 
 ## Licença
 
-https://www.udemy.com/certificate/UC-13ff9701-36e6-4dd2-a00c-c667f5b19005/
+[HTML5: Udemy](https://www.udemy.com/certificate/UC-13ff9701-36e6-4dd2-a00c-c667f5b19005/)
 
-https://www.dio.me/certificate/FWBOE85U/share
 
-https://www.dio.me/certificate/H9HVARLW/share
 
-https://www.dio.me/certificate/MTRMUMFJ/share
+
+[Formação HTML Web Developer DIO](https://www.dio.me/certificate/FWBOE85U/share)
+
+
+[Formação Fundamentos de IA DIO](https://www.dio.me/certificate/H9HVARLW/share)
+
+[Formação JavaScript Developer DIO](https://www.dio.me/certificate/MTRMUMFJ/share)
+
+[Formação CSS Web Developer DIO](https://hermes.dio.me/certificates/R5K73AZN.pdf)
 
 
 
