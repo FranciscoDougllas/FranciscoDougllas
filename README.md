@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**FranciscoDougllas/FranciscoDougllas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bem-Vindos ao Meu Espaço de Trabalho
 
-Here are some ideas to get you started:
+![Engenharia de software](https://academiatech.s3.amazonaws.com/wp-content/uploads/2023/01/imagem-software-21012023.webp)
+## 🚀 Sobre mim
+Formado em **Gestão Financeira**, cursando **Engenharia de Software** Pela faculdade **Descomplica**, Desenvolvedor ***Front-End Junior*** estudante **FullStack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Habilidades
+Javascript, HTML, CSS...
+
+
+## Licença
+
+https://www.udemy.com/certificate/UC-13ff9701-36e6-4dd2-a00c-c667f5b19005/
+
+https://www.dio.me/certificate/FWBOE85U/share
+
+https://www.dio.me/certificate/H9HVARLW/share
+
+https://www.dio.me/certificate/MTRMUMFJ/share
+
+
+
